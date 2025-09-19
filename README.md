@@ -1,5 +1,5 @@
 # img-contrast-adjustment
-#Contrast Manipulation of Perceptual-Related Stimuli for Experimental Research
+# Contrast Manipulation of Perceptual-Related Stimuli for Experimental Research
 
 
 This repository contains a Python tool for adjusting and manipulating the **contrast of images** in the context of perceptual research on **trypophobia** (the aversion to clusters of holes or repetitive patterns) or any perceptual-related research.  
