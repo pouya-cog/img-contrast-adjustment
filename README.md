@@ -18,3 +18,16 @@ The project is motivated by the **contrast hypothesis of trypophobia**, which su
 ---
 
 ## Repository Structure
+
+# Dependencies
+
+Install the required dependencies: (pip install -r requirements.txt)
+opencv-python
+pillow
+matplotlib
+
+Usage:
+Place your input images inside the input_images folder.
+Run the script from the command line:
+python script.py --input_folder input_images --output_folder output_images
+Processed images with varying contrast levels will be saved in output_images.
