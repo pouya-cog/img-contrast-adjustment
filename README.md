@@ -22,9 +22,10 @@ The project is motivated by the **contrast hypothesis of trypophobia**, which su
 # Dependencies
 
 Install the required dependencies: (pip install -r requirements.txt)
-opencv-python
-pillow
-matplotlib
+
+- opencv-python
+- pillow
+- matplotlib
 
 Usage:
 Place your input images inside the input_images folder.
