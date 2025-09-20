@@ -1,0 +1,1 @@
+This folder is for EEG preprocessing scripts and resources.
